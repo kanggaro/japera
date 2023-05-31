@@ -7,5 +7,5 @@
   
   Pada website ini terdapat 3 role, staf pusat, staf lapangan dan customer. staf pusat bertugas sebagai admin yang menghandle website. staf lapangan bertugas sebagai pembasmi. Dan Customer merupakan pelanggan yang menggunakan jasa dan fitur web JAPERA
 - Dashboard View
-- 
+
 ![image](https://github.com/kanggaro/japera/assets/90663373/6cbe7f12-53f1-4ee9-8c62-d7ce47ca01e9)
