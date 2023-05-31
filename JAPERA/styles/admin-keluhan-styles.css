@@ -1,0 +1,130 @@
+.sideMenu {
+    height: 100%;
+    width: 15%;
+    position: fixed;
+    background-color: #544021;
+}
+
+.logo {
+    width: 80%;
+    margin: 10% 10% 20% 10%;
+}
+
+.sideMenu a {
+    display: block;
+    color: #FFF6DD;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-right: 10%;
+    padding: 5%;
+}
+
+.sideMenu-hover a:hover {
+    background-color: #c4ad88;
+    border-radius: 16px;
+    color: #533e1b;
+}
+
+.menu-pilihan {
+    background-color: #B48944;
+    border-radius: 16px;
+    
+}
+
+.exit-button {
+    width: 15%;
+    position: relative;
+    top: 4px;
+}
+
+/* content */
+
+.content {
+    margin-left: 20%;
+    padding-top: 5%;
+}
+
+.content h1 {
+    margin-bottom: 5%;
+}
+
+.kotak-keluhan {
+    background-color: #CDAC76;
+    border-radius: 16px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    width: 95%;
+}
+
+.judul-pembasmian, .info-pembasmian, .tombol-detail-keluhan {
+    display: inline-block;
+    position: relative;
+    bottom: 60px;
+    margin-left: 4%;
+}
+
+.kotak-keluhan img {
+    width: 12%;
+    padding: 25px 0 25px 25px;
+}
+
+.info-pembasmian {
+    text-align: center;
+}
+
+.status-pembasmian {
+    border: 2px solid white;
+    border-radius: 16px;
+    color: white;
+    padding: 5px;
+}
+
+.status-red {
+    background-color: #E25454;
+}
+
+.status-yellow {
+    background-color: #E5CC47;
+}
+
+.status-green {
+    background-color: #17854C;
+}
+
+.tombol-detail-keluhan {
+    background-color: white;
+    border: 0;
+    padding: 10px;
+    border-radius: 16px;
+}
+
+.tombol-keluhan-hover:hover {
+    background-color: #B48944;
+    color: white;
+}
+
+.footer {
+    position: relative;
+    background-color: #7E643A;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.footer-logo {
+    width: 10%;
+    margin-left: 5%;
+}
+
+.footer p {
+    color: white;
+}
+
+.footer-kontak {
+    display: inline-block;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.footer-kontak img {
+    margin: 15px 9%;
+}

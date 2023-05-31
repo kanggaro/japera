@@ -1,0 +1,107 @@
+.sideMenu {
+    height: 100%;
+    width: 15%;
+    position: fixed;
+    background-color: #544021;
+}
+
+.logo {
+    width: 80%;
+    margin: 10% 10% 20% 10%;
+}
+
+.sideMenu a {
+    display: block;
+    color: #FFF6DD;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-right: 10%;
+    padding: 5%;
+}
+
+.sideMenu-hover a:hover {
+    background-color: #c4ad88;
+    border-radius: 16px;
+    color: #533e1b;
+}
+
+.menu-pilihan {
+    background-color: #B48944;
+    border-radius: 16px;
+    
+}
+
+.exit-button {
+    width: 15%;
+    position: relative;
+    top: 4px;
+}
+
+.content {
+    margin-left: 20%;
+    padding-top: 5%;
+}
+
+/* content */
+
+.table-content {
+    text-align: center;
+}
+
+.content table, .content td, .content th {
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.content table {
+    border: 1px solid gray;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content th {
+    background-color: #B48944;
+}
+
+.submit-button {
+    background-color: #B48944;
+    width: 40%;
+    height: 10%;
+    border-radius: 16px;
+    color: white;
+    font-weight: bolder;
+    border: 0 solid black;
+}
+
+.submit-button-hover:hover {
+    background-color: #c4ad88;
+    color: #7E643A;
+}
+
+.footer {
+    position: relative;
+    background-color: #7E643A;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.footer-logo {
+    width: 10%;
+    margin-left: 5%;
+}
+
+.footer p {
+    color: white;
+}
+
+.footer-kontak {
+    display: inline-block;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.footer-kontak img {
+    margin: 15px 9%;
+}

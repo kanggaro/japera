@@ -1,0 +1,118 @@
+.sideMenu {
+    height: 100%;
+    width: 15%;
+    position: fixed;
+    background-color: #544021;
+}
+
+.logo {
+    width: 80%;
+    margin: 10% 10% 20% 10%;
+}
+
+.sideMenu a {
+    display: block;
+    color: #FFF6DD;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-right: 10%;
+    padding: 5%;
+}
+
+.sideMenu-hover a:hover {
+    background-color: #c4ad88;
+    border-radius: 16px;
+    color: #533e1b;
+}
+
+.menu-pilihan {
+    background-color: #B48944;
+    border-radius: 16px;
+    
+}
+
+.exit-button {
+    width: 15%;
+    position: relative;
+    top: 4px;
+}
+
+.content {
+    margin-left: 20%;
+    padding-top: 5%;
+}
+
+.content h1 {
+    font-size: 3em;
+}
+
+.info {
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+    margin-top: 5%;
+    padding: 15px;
+    display: inline-block;
+    width: 55%;
+}
+
+.info h2 {
+    margin-bottom: 10%;
+}
+
+.info a {
+    position: relative;
+    left: 70%;
+}
+
+.info table {
+    margin-bottom: 10%;
+}
+
+.info th {
+    text-align: left;
+    padding-right: 150px;
+    border-bottom: 1px solid #D9D9D9;
+}
+
+.status-keluhan {
+    text-align: center;
+    border-radius: 16px;
+}
+
+.status-red {
+    background-color: #E25454;
+}
+
+.status-yellow {
+    background-color: #E5CC47;
+}
+
+.status-green {
+    background-color: #17854C;
+}
+
+.footer {
+    position: relative;
+    background-color: #7E643A;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.footer-logo {
+    width: 10%;
+    margin-left: 5%;
+}
+
+.footer p {
+    color: white;
+}
+
+.footer-kontak {
+    display: inline-block;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.footer-kontak img {
+    margin: 15px 9%;
+}
